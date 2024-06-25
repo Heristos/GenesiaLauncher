@@ -10,11 +10,11 @@ The distribution index is written in JSON. The general format of the index is as
 {
     "version": "1.0.0",
     "discord": {
-        "clientId": "1237473301165772891",
-        "smallImageText": "Genesia",
-        "smallImageKey": "logo_genesia_2048"
+        "clientId": "12334567890123456789",
+        "smallImageText": "WesterosCraft",
+        "smallImageKey": "seal-circle"
     },
-    "rss": "http://83.200.225.134:5000/genesia/news.rss",
+    "rss": "https://westeroscraft.com/articles/index.rss",
     "servers": [
         {
             "id": "Example_Server",

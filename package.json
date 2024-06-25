@@ -1,13 +1,13 @@
 {
   "name": "genesialauncher",
-  "version": "1.0.0",
+  "version": "2.2.1",
   "productName": "Genesia Launcher",
-  "description": "Génésia est un serveur libre innovant, offrant une expérience de gameplay unique et inédite. Rejoignez-nous dès maintenant pour découvrir un monde où la liberté et la créativité sont au cœur de l'expérience.",
-  "author": "Daniel Scalzi (https://github.com/dscalzi/), H3ristos (https://github.com/Heristos/)",
+  "description": "Modded Minecraft Launcher",
+  "author": "Daniel Scalzi, H3ristos",
   "license": "UNLICENSED",
-  "homepage": "https://github.com/Heristos/GenesiaLauncher",
+  "homepage": "https://github.com/dscalzi/HeliosLauncher",
   "bugs": {
-    "url": "https://github.com/Heristos/GenesiaLauncher/issues"
+    "url": "https://github.com/dscalzi/HeliosLauncher/issues"
   },
   "private": true,
   "main": "index.js",
@@ -46,6 +46,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Heristos/GenesiaLauncher.git"
+    "url": "git+https://github.com/heristos/genesialauncher.git"
   }
 }
